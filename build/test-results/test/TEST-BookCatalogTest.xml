@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BookCatalogTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-28T22:03:10" hostname="JGTHINKPAD" time="0.028">
+<testsuite name="BookCatalogTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-12-09T10:41:27" hostname="JGTHINKPAD" time="0.039">
   <properties/>
-  <testcase name="testAddABook()" classname="BookCatalogTest" time="0.015"/>
+  <testcase name="testAddABook()" classname="BookCatalogTest" time="0.021"/>
   <testcase name="testFindBook()" classname="BookCatalogTest" time="0.001"/>
   <testcase name="testFindBookIgnoringCase()" classname="BookCatalogTest" time="0.001"/>
-  <testcase name="testFindBookWithExtraSpaces()" classname="BookCatalogTest" time="0.0"/>
-  <testcase name="testFindBookThatDoesntExist()" classname="BookCatalogTest" time="0.007"/>
+  <testcase name="testFindBookWithExtraSpaces()" classname="BookCatalogTest" time="0.002"/>
+  <testcase name="testFindBookThatDoesntExist()" classname="BookCatalogTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
